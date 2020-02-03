@@ -9,7 +9,7 @@
 /*
 search two linked list to find the sum of corresponding items
 consider the possible of carry of the highest digit and unpaired digit  
-replace head anc current pointer with pointer to pointer
+replace head and current pointer with pointer to pointer
 */
 
 
