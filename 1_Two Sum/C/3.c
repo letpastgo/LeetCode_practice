@@ -2,6 +2,11 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 
+/*
+use linked list and hash map package
+algorithm : two-pass hash table
+*/
+
 int* twoSum(int* nums, int numsSize, int target , int* returnSize){
     
     struct h_table
