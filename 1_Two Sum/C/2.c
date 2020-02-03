@@ -1,6 +1,9 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
+
+/* use linked list and hash map package to find answer*/
+
 int* twoSum(int* nums, int numsSize, int target , int* returnSize){
     
     struct h_table
