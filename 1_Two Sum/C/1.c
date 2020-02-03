@@ -1,6 +1,9 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
+
+/*pure brutal search to find answer*/
+
 int* twoSum(int* nums, int numsSize, int target , int* returnSize){
     
     int *ret =(int *)malloc(2*sizeof(int));
