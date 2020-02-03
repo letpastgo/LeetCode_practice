@@ -9,7 +9,9 @@
 /*
 search two linked list to find the sum of corresponding items
 consider the possible of carry of the highest digit and unpaired digit  
+replace head and current pointer with pointer to pointer
 */
+
 
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
     
