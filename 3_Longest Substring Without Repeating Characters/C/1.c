@@ -1,6 +1,7 @@
 /* brutal search 
    In the beginning, malloc a string to record checked substring : Runtime:320 ms	Memory : 23.2 MB
    According to other's solution : use a position as an end, check the previous chars to see if repeated char existed  
+   Runtime:8 ms	Memory : 7 MB
 */
 
 int lengthOfLongestSubstring(char * s){
