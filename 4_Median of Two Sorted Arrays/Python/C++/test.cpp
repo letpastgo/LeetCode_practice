@@ -1,4 +1,5 @@
 https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1669917/C%2B%2B-Solution-with-detailed-explanation
+https://www.youtube.com/watch?v=q6IEA26hvXc
 
 class Solution {
 public:
